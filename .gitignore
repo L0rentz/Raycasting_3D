@@ -1,0 +1,4 @@
+raycasting3d
+.vscode
+build
+*.o
